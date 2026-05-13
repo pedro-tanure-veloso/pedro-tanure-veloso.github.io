@@ -1,0 +1,18 @@
+# CV LaTeX source folder (build artifacts, cover letters, signature image, old versions) — kept local-only
+CV/
+
+# macOS noise
+.DS_Store
+._*
+
+# Common LaTeX build artifacts at any path
+*.aux
+*.fdb_latexmk
+*.fls
+*.log
+*.out
+*.synctex.gz
+
+# Editor / OS junk
+*~
+Thumbs.db
